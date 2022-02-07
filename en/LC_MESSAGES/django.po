@@ -1,0 +1,180 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-07 20:51+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: account/templates/account/login.html:29
+#: account/templates/account/login.html:64
+#: account/templates/account/signup.html:64 home/templates/home/home.html:76
+#: home/templates/navbar/navbar.html:56
+msgid "Log in"
+msgstr ""
+
+#: account/templates/account/login.html:31
+#, python-format
+msgid "You are logged in as %(username)s, do you want to switch account?"
+msgstr ""
+
+#: account/templates/account/login.html:38
+#: account/templates/account/login.html:40
+#: account/templates/account/signup.html:38
+#: account/templates/account/signup.html:40
+msgid "Username"
+msgstr ""
+
+#: account/templates/account/login.html:44
+#: account/templates/account/login.html:46
+#: account/templates/account/signup.html:50
+#: account/templates/account/signup.html:52
+#: account/templates/account/signup.html:58
+msgid "Password"
+msgstr ""
+
+#: account/templates/account/login.html:53
+msgid "Forgot your password?"
+msgstr ""
+
+#: account/templates/account/login.html:58
+msgid "No account yet?"
+msgstr ""
+
+#: account/templates/account/login.html:59
+#: account/templates/account/signup.html:29
+#: account/templates/account/signup.html:69 home/templates/home/home.html:77
+#: home/templates/navbar/navbar.html:54
+msgid "Register"
+msgstr ""
+
+#: account/templates/account/reset_pwd.html:29
+msgid "Reset password"
+msgstr ""
+
+#: account/templates/account/reset_pwd.html:30
+msgid ""
+"This area hasn't been finished, we are working on it, please send an email "
+"to feedback.foodregister@gmail.com to reset your password"
+msgstr ""
+
+#: account/templates/account/settings.html:29
+msgid "Account Settings"
+msgstr ""
+
+#: account/templates/account/settings.html:30
+msgid ""
+"This area hasn't been finished, we are working on it, please send an email "
+"to feedback.foodregister@gmail.com if you want to modify something in your "
+"account or get your personal informations"
+msgstr ""
+
+#: account/templates/account/signup.html:31
+#, python-format
+msgid ""
+"You are logged in as %(username)s, do you wan't to create a new account?"
+msgstr ""
+
+#: account/templates/account/signup.html:44
+#: account/templates/account/signup.html:46
+msgid "E-Mail"
+msgstr ""
+
+#: account/templates/account/signup.html:56
+msgid "Password (verification)"
+msgstr ""
+
+#: account/templates/account/signup.html:63
+msgid "You already have an account?"
+msgstr ""
+
+#: account/views.py:33
+msgid "Something went wrong with your credentials"
+msgstr ""
+
+#: account/views.py:57
+msgid "The two passwords are different"
+msgstr ""
+
+#: account/views.py:61
+msgid "The password is too short"
+msgstr ""
+
+#: account/views.py:65
+msgid "The e-mail already exists"
+msgstr ""
+
+#: account/views.py:69
+msgid "The username already exists"
+msgstr ""
+
+#: foodregister/settings.py:126
+msgid "English"
+msgstr "English"
+
+#: foodregister/settings.py:127
+msgid "French"
+msgstr "French"
+
+#: home/templates/home/home.html:31
+#, fuzzy
+#| msgid ""
+#| "\n"
+#| "                    Stop food loss ! \n"
+#| "                "
+msgid ""
+"\n"
+"                    Stop food loss! \n"
+"                "
+msgstr ""
+"\n"
+"                    Stop food loss ! \n"
+"                "
+
+#: home/templates/home/home.html:71
+msgid "Let's fight food spoiling!"
+msgstr ""
+
+#: home/templates/home/home.html:73
+msgid "Access to campaigns"
+msgstr ""
+
+#: home/templates/navbar/navbar.html:16 home/templates/navbar/navbar.html:74
+msgid "Home"
+msgstr ""
+
+#: home/templates/navbar/navbar.html:19 home/templates/navbar/navbar.html:75
+msgid "Campaigns"
+msgstr ""
+
+#: home/templates/navbar/navbar.html:23 home/templates/navbar/navbar.html:77
+msgid "Administrator"
+msgstr ""
+
+#: home/templates/navbar/navbar.html:50
+msgid "Settings"
+msgstr ""
+
+#: home/templates/navbar/navbar.html:52
+msgid "Sign out"
+msgstr ""
+
+#: home/templates/navbar/navbar.html:60
+msgid "Dark Mode"
+msgstr ""
+
+#: home/templates/navbar/navbar.html:63
+msgid "Light Mode"
+msgstr ""
