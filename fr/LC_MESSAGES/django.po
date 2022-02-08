@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-07 20:51+0000\n"
+"POT-Creation-Date: 2022-02-08 08:58+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,15 +18,16 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
+
 #: account/templates/account/login.html:29
 #: account/templates/account/login.html:64
-#: account/templates/account/signup.html:64 home/templates/home/home.html:76
+#: account/templates/account/signup.html:64 home/templates/home/home.html:78
 #: home/templates/navbar/navbar.html:56
 msgid "Log in"
 msgstr "Connexion"
 
 #: account/templates/account/login.html:31
-#, fuzzy, python-format
+#, , python-format
 msgid "You are logged in as %(username)s, do you want to switch account?"
 msgstr ""
 "Vous êtes connecté en tant que %(username)s, souhaitez-vous changer de "
@@ -57,13 +58,13 @@ msgstr "Pas encore de compte ?"
 
 #: account/templates/account/login.html:59
 #: account/templates/account/signup.html:29
-#: account/templates/account/signup.html:69 home/templates/home/home.html:77
+#: account/templates/account/signup.html:69 home/templates/home/home.html:79
 #: home/templates/navbar/navbar.html:54
 msgid "Register"
 msgstr "Créer un compte"
 
 #: account/templates/account/reset_pwd.html:29
-#, fuzzy
+#, 
 msgid "Reset password"
 msgstr "Réinitialisation du mot de passe"
 
@@ -77,24 +78,24 @@ msgstr ""
 "nous un mail à feedback.foodregister@gmail.com"
 
 #: account/templates/account/settings.html:29
-#, fuzzy
+#,
 #| msgid "Settings"
 msgid "Account Settings"
 msgstr "Paramètres"
 
 #: account/templates/account/settings.html:30
-#, fuzzy
-#| msgid ""
-#| "This area hasn't been finished, we are working on it, please send an "
-#| "email to feedback.foodregister@gmail.com to reset your password"
-msgid "This area hasn't been finished, we are working on it, please send an email to feedback.foodregister@gmail.com if you want to modify something in your account or get your personal informations"
+#,
+msgid ""
+"This area hasn't been finished, we are working on it, please send an email "
+"to feedback.foodregister@gmail.com if you want to modify something in your "
+"account or get your personal informations"
 msgstr ""
 "Cette page n'est pas encore terminée, nous travaillons encore dessus, si "
 "vous souhaitez utiliser l'une des fonctionnalités de cette page, envoyez "
 "nous un mail à feedback.foodregister@gmail.com"
 
 #: account/templates/account/signup.html:31
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "You are logged in as %(username)s, do you wan't to create a new account?"
 msgstr ""
@@ -142,21 +143,21 @@ msgstr "Anglais"
 msgid "French"
 msgstr "Français"
 
-#: home/templates/home/home.html:31
+#: home/templates/home/home.html:33
 msgid ""
 "\n"
 "                    Stop food loss! \n"
 "                "
 msgstr ""
 "\n"
-"                    Arrêtons le gaspillage alimentaire ! \n"
+"                    Arrêtons le gaspillage alimentaire! \n"
 "                "
 
-#: home/templates/home/home.html:71
+#: home/templates/home/home.html:73
 msgid "Let's fight food spoiling!"
 msgstr "Combattez le gaspillage alimentaire !"
 
-#: home/templates/home/home.html:73
+#: home/templates/home/home.html:75
 msgid "Access to campaigns"
 msgstr "Accéder aux sondages"
 
@@ -187,3 +188,23 @@ msgstr "Thème sombre"
 #: home/templates/navbar/navbar.html:63
 msgid "Light Mode"
 msgstr "Thème clair"
+
+#: __locale.py:3 home/templates/home/home.html:22
+#,
+msgid "Campaign name"
+msgstr "Sondages"
+
+#: __locale.py:4
+#, 
+msgid "Campaign name 2"
+msgstr "Sondages 2"
+
+#: __locale.py:5
+#, 
+msgid "Campaign name 3"
+msgstr "Sondages 3"
+
+#: __locale.py:6
+#, 
+msgid "Campaign name 4"
+msgstr "Sondages 4"
