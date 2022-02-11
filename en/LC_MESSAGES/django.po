@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-08 08:58+0000\n"
+"POT-Creation-Date: 2022-02-08 18:10+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: __locale.py:3 home/templates/home/home.html:22
+#: __locale.py:3
 msgid "Campaign name"
 msgstr ""
 
@@ -36,7 +36,7 @@ msgstr ""
 
 #: account/templates/account/login.html:29
 #: account/templates/account/login.html:64
-#: account/templates/account/signup.html:64 home/templates/home/home.html:78
+#: account/templates/account/signup.html:64 home/templates/home/home.html:64
 #: home/templates/navbar/navbar.html:56
 msgid "Log in"
 msgstr ""
@@ -71,7 +71,7 @@ msgstr ""
 
 #: account/templates/account/login.html:59
 #: account/templates/account/signup.html:29
-#: account/templates/account/signup.html:69 home/templates/home/home.html:79
+#: account/templates/account/signup.html:69 home/templates/home/home.html:65
 #: home/templates/navbar/navbar.html:54
 msgid "Register"
 msgstr ""
@@ -144,7 +144,7 @@ msgstr "English"
 msgid "French"
 msgstr "French"
 
-#: home/templates/home/home.html:33
+#: home/templates/home/home.html:31
 #, fuzzy
 #| msgid ""
 #| "\n"
@@ -159,12 +159,68 @@ msgstr ""
 "                    Stop food loss ! \n"
 "                "
 
-#: home/templates/home/home.html:73
+#: home/templates/home/home.html:41 home/templates/home/home.html:73
+msgid "How does it work?"
+msgstr ""
+
+#: home/templates/home/home.html:42
+msgid ""
+"You can vote on a question series 3 weeks before to allow C'Midy to change "
+"what they will buy. And you can lose less food!"
+msgstr ""
+
+#: home/templates/home/home.html:45
+msgid "What is FoodRegister?"
+msgstr ""
+
+#: home/templates/home/home.html:46
+msgid ""
+"FoodRegister is a project that aims to reduce food loss in the school "
+"restaurant. It was launched two years ago to allow us to help ecology in our "
+"own way."
+msgstr ""
+
+#: home/templates/home/home.html:49
+msgid "An engaged team"
+msgstr ""
+
+#: home/templates/home/home.html:50
+msgid ""
+"We are a team of 3 students working hardly on this project. If you want to "
+"reach us, we are available for any idea or projet related to ecology."
+msgstr ""
+
+#: home/templates/home/home.html:59
 msgid "Let's fight food spoiling!"
 msgstr ""
 
-#: home/templates/home/home.html:75
+#: home/templates/home/home.html:61
 msgid "Access to campaigns"
+msgstr ""
+
+#: home/templates/home/home.html:80
+msgid "C'Midy gives us data about what we are going to eat."
+msgstr ""
+
+#: home/templates/home/home.html:87
+msgid ""
+"We give series of questions to the students using our website 3 weeks before."
+msgstr ""
+
+#: home/templates/home/home.html:94
+msgid "We compile answers and C'Midy adapts what they buy."
+msgstr ""
+
+#: home/templates/home/home.html:100
+msgid "We avoid losing food!"
+msgstr ""
+
+#: home/templates/home/home.html:106
+msgid "Who are we?"
+msgstr ""
+
+#: home/templates/home/home.html:107
+msgid "Food Register is a school project that aims to reduce spoiled food."
 msgstr ""
 
 #: home/templates/navbar/navbar.html:16 home/templates/navbar/navbar.html:74
