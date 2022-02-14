@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-08 18:10+0000\n"
+"POT-Creation-Date: 2022-02-14 07:18+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,26 +18,637 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
-#: __locale.py:3
+#: __locale.py:6 __locale.py:8 __locale.py:10
 msgid "Campaign name"
 msgstr "Sondages"
 
-#: __locale.py:4
-msgid "Campaign name 2"
-msgstr "Sondages 2"
+#: __locale.py:15
+msgid "Lundi 14 février"
+msgstr ""
 
-#: __locale.py:5
-msgid "Campaign name 3"
-msgstr "Sondages 3"
+#: __locale.py:17
+msgid "Mardi 15 février"
+msgstr ""
 
-#: __locale.py:6
-msgid "Campaign name 4"
-msgstr "Sondages 4"
+#: __locale.py:19
+msgid "Mercredi 16 février"
+msgstr ""
+
+#: __locale.py:21
+msgid "Jeudi 17 février"
+msgstr ""
+
+#: __locale.py:23
+msgid "Vendredi 18 février"
+msgstr ""
+
+#: __locale.py:25
+msgid "Lundi 7 février"
+msgstr ""
+
+#: __locale.py:27
+msgid "Mardi 8 février"
+msgstr ""
+
+#: __locale.py:29
+msgid "Mercredi 9 février"
+msgstr ""
+
+#: __locale.py:31
+msgid "Jeudi 10 février"
+msgstr ""
+
+#: __locale.py:33
+msgid "Vendredi 11 février"
+msgstr ""
+
+#: __locale.py:35
+msgid "lundi 31 janvier"
+msgstr ""
+
+#: __locale.py:37
+msgid "mardi 1 février"
+msgstr ""
+
+#: __locale.py:39
+msgid "mercredi 2 février"
+msgstr ""
+
+#: __locale.py:41
+msgid "jeudi 3 février"
+msgstr ""
+
+#: __locale.py:43
+msgid "vendredi 4 février"
+msgstr ""
+
+#: __locale.py:48 __locale.py:56 __locale.py:64 __locale.py:130 __locale.py:138
+#: __locale.py:146 __locale.py:154 __locale.py:162
+msgid "PLAT COMPLET"
+msgstr ""
+
+#: __locale.py:50 __locale.py:60 __locale.py:66 __locale.py:74 __locale.py:82
+#: __locale.py:132 __locale.py:140 __locale.py:148 __locale.py:156
+#: __locale.py:164
+msgid "FROMAGE / LAITAGE"
+msgstr ""
+
+#: __locale.py:52 __locale.py:62 __locale.py:68 __locale.py:76 __locale.py:84
+#: __locale.py:134 __locale.py:142 __locale.py:150 __locale.py:158
+#: __locale.py:166
+msgid "DESSERT"
+msgstr ""
+
+#: __locale.py:54 __locale.py:70 __locale.py:78 __locale.py:128 __locale.py:136
+#: __locale.py:144 __locale.py:152 __locale.py:160
+msgid "PLAT PROTIDIQUE"
+msgstr ""
+
+#: __locale.py:58 __locale.py:72 __locale.py:80
+msgid "GARNITURE"
+msgstr ""
+
+#: __locale.py:86 __locale.py:96 __locale.py:106 __locale.py:112
+#: __locale.py:120
+msgid "Dessert"
+msgstr ""
+
+#: __locale.py:88 __locale.py:98 __locale.py:114 __locale.py:122
+msgid "Plat protidique"
+msgstr ""
+
+#: __locale.py:90 __locale.py:100 __locale.py:108
+msgid "Plat complet"
+msgstr ""
+
+#: __locale.py:92 __locale.py:102 __locale.py:116 __locale.py:124
+msgid "Garniture"
+msgstr ""
+
+#: __locale.py:94 __locale.py:104 __locale.py:110 __locale.py:118
+#: __locale.py:126
+msgid "Fromage / laitage"
+msgstr ""
+
+#: __locale.py:171
+msgid "Cotriade bretonne"
+msgstr ""
+
+#: __locale.py:173
+msgid "Raclette"
+msgstr ""
+
+#: __locale.py:175
+msgid "Ragout de patate douce au lait coco"
+msgstr ""
+
+#: __locale.py:177
+msgid "Tartare nature"
+msgstr ""
+
+#: __locale.py:179 __locale.py:263 __locale.py:353
+msgid "Yaourt aromatisé"
+msgstr ""
+
+#: __locale.py:181 __locale.py:221 __locale.py:265 __locale.py:293
+#: __locale.py:315 __locale.py:333 __locale.py:355
+msgid "Yaourt nature sans sucre"
+msgstr ""
+
+#: __locale.py:183 __locale.py:357
+msgid "Banane bio"
+msgstr ""
+
+#: __locale.py:185 __locale.py:273
+msgid "Compote de pomme"
+msgstr ""
+
+#: __locale.py:187
+msgid "Flan saveur vanille"
+msgstr ""
+
+#: __locale.py:189 __locale.py:343
+msgid "Filet de cabillaud à la sauce aux trois herbes"
+msgstr ""
+
+#: __locale.py:191
+msgid "Emincé de dinde lr sauce arrabiata"
+msgstr ""
+
+#: __locale.py:193
+msgid "Timbale de riz à l&#39;espagnole"
+msgstr ""
+
+#: __locale.py:195
+msgid "Pommes de terre wedge"
+msgstr ""
+
+#: __locale.py:197
+msgid "Poelée de légumes racines"
+msgstr ""
+
+#: __locale.py:199
+msgid "Emmental"
+msgstr ""
+
+#: __locale.py:201
+msgid "Fromage blanc type suisse bio"
+msgstr ""
+
+#: __locale.py:203 __locale.py:291
+msgid "Yaourt brassé aux fruits mixés"
+msgstr ""
+
+#: __locale.py:205 __locale.py:359
+msgid "Compote pomme fraise"
+msgstr ""
+
+#: __locale.py:207
+msgid "Gâteau aux pommes (farine lcl, lait lcl, pomme lcl)"
+msgstr ""
+
+#: __locale.py:209 __locale.py:277
+msgid "Pomme lcl des yvelines"
+msgstr ""
+
+#: __locale.py:211
+msgid "Spaghetti duo de poissons a la tomate"
+msgstr ""
+
+#: __locale.py:213
+msgid "Torsades façon carbonara"
+msgstr ""
+
+#: __locale.py:215
+msgid "Torsades au potiron, carottes et mozzarella"
+msgstr ""
+
+#: __locale.py:217
+msgid "Camembert"
+msgstr ""
+
+#: __locale.py:219
+msgid "Fromage blanc aux fruits"
+msgstr ""
+
+#: __locale.py:223 __locale.py:317
+msgid "Orange"
+msgstr ""
+
+#: __locale.py:225
+msgid "Panna cotta et coulis à la mangue (lait lcl)"
+msgstr ""
+
+#: __locale.py:227
+msgid "Smoothie orange et banane"
+msgstr ""
+
+#: __locale.py:229
+msgid "Colin d&#39;alaska pané aux céréales et quartier de citron"
+msgstr ""
+
+#: __locale.py:231
+msgid "Omelette (oeufs bio lcl) aux champignons"
+msgstr ""
+
+#: __locale.py:233
+msgid "Echine de porc vf demi-sel"
+msgstr ""
+
+#: __locale.py:235
+msgid "Boulgour bio"
+msgstr ""
+
+#: __locale.py:237
+msgid "Trio de légumes bio (carotte, brocoli et chou fleur)"
+msgstr ""
+
+#: __locale.py:239
+msgid "Cantal aop"
+msgstr ""
+
+#: __locale.py:241
+msgid "Fondu vache qui rit"
+msgstr ""
+
+#: __locale.py:243 __locale.py:313
+msgid "Yaourt aux fruits"
+msgstr ""
+
+#: __locale.py:245
+msgid "Gâteau à la vanille (farine lcl)"
+msgstr ""
+
+#: __locale.py:247 __locale.py:339
+msgid "Kiwi"
+msgstr ""
+
+#: __locale.py:249
+msgid "Soupe de fruits rouges"
+msgstr ""
+
+#: __locale.py:251
+msgid "Estouffade de boeuf char à la provençale"
+msgstr ""
+
+#: __locale.py:253
+msgid "Portion de filets de hoki sauce agrume"
+msgstr ""
+
+#: __locale.py:255
+msgid "Nuggets de blé"
+msgstr ""
+
+#: __locale.py:257
+msgid "Ratatouille"
+msgstr ""
+
+#: __locale.py:259
+msgid "Riz créole"
+msgstr ""
+
+#: __locale.py:261
+msgid "Petit moulé noix"
+msgstr ""
+
+#: __locale.py:267 __locale.py:335
+msgid "Compote pomme poire"
+msgstr ""
+
+#: __locale.py:269
+msgid "Mousse au chocolat au lait"
+msgstr ""
+
+#: __locale.py:271 __locale.py:297
+msgid "Poire lcl des yvelines"
+msgstr ""
+
+#: __locale.py:275
+msgid "Crème dessert saveur vanille"
+msgstr ""
+
+#: __locale.py:279
+msgid "Filet de colin d&#39;alaska sauce basquaise"
+msgstr ""
+
+#: __locale.py:281
+msgid "Boullettes au mouton et au boeuf à l&#39;orientale"
+msgstr ""
+
+#: __locale.py:283
+msgid "Patata cheddar légumes sauce barbecue"
+msgstr ""
+
+#: __locale.py:285
+msgid "Blé au coulis de tomate"
+msgstr ""
+
+#: __locale.py:287
+msgid "Epinards en branches béchamel"
+msgstr ""
+
+#: __locale.py:289
+msgid "Samos"
+msgstr ""
+
+#: __locale.py:295
+msgid "Crumble à la poire et au chocolat (farine lcl)"
+msgstr ""
+
+#: __locale.py:299
+msgid "Salade cocktail de fruits frais jus de raisin"
+msgstr ""
+
+#: __locale.py:301
+msgid "Poisson pane sc tartare"
+msgstr ""
+
+#: __locale.py:303
+msgid "Cuisse de poulet rôti lr sauce barbecue"
+msgstr ""
+
+#: __locale.py:305
+msgid "Dahl de lentilles corail lcl 78 et riz"
+msgstr ""
+
+#: __locale.py:307
+msgid "Haricots verts bio"
+msgstr ""
+
+#: __locale.py:309
+msgid "Riz bio créole"
+msgstr ""
+
+#: __locale.py:311
+msgid "Edam"
+msgstr ""
+
+#: __locale.py:319
+msgid "Pudding anglais (lait lcl)"
+msgstr ""
+
+#: __locale.py:321
+msgid "Smoothie oranges et framboises"
+msgstr ""
+
+#: __locale.py:323
+msgid "Farfalles au saumon fumé et brocolis"
+msgstr ""
+
+#: __locale.py:325
+msgid "Gratin gnocchetti brocoli cheddar et mozzarella"
+msgstr ""
+
+#: __locale.py:327
+msgid "Poêlée de gnocchettis, jambon et légumes"
+msgstr ""
+
+#: __locale.py:329
+msgid "Fromage blanc sucré"
+msgstr ""
+
+#: __locale.py:331
+msgid "Munster aop"
+msgstr ""
+
+#: __locale.py:337
+msgid "Gâteau façon cookie aux pépites de chocolat (farine lcl)"
+msgstr ""
+
+#: __locale.py:341
+msgid "Sauté de boeuf char façon strogonoff"
+msgstr ""
+
+#: __locale.py:345
+msgid "Crispidor au fromage"
+msgstr ""
+
+#: __locale.py:347
+msgid "Carottes lcl des yvelines"
+msgstr ""
+
+#: __locale.py:349
+msgid "Semoule"
+msgstr ""
+
+#: __locale.py:351
+msgid "Montboissié"
+msgstr ""
+
+#: __locale.py:361
+msgid "Liégeois chocolat"
+msgstr ""
+
+#: __locale.py:363
+msgid "Filet de colin d&#39;alaska sauce armoricaine"
+msgstr ""
+
+#: __locale.py:365
+msgid "Jambon blanc"
+msgstr ""
+
+#: __locale.py:367
+msgid "Omelette (oeufs bio lcl)"
+msgstr ""
+
+#: __locale.py:369
+msgid "Pomme de terre au four lcl des yvelines"
+msgstr ""
+
+#: __locale.py:371
+msgid "Petit pois"
+msgstr ""
+
+#: __locale.py:373
+msgid "Brie bio"
+msgstr ""
+
+#: __locale.py:375
+msgid "Fromage frais 1/2 sel bio"
+msgstr ""
+
+#: __locale.py:377
+msgid "Yaourt nature bio"
+msgstr ""
+
+#: __locale.py:379
+msgid "STEAK HACHÉ DE BOEUF CHAR SAUCE CHASSEUR"
+msgstr ""
+
+#: __locale.py:381
+msgid "PORTION DE FILETS DE MERLU ET SAUCE VATAPA"
+msgstr ""
+
+#: __locale.py:383
+msgid "QUICHE PETITS POIS ET CHÈVRE"
+msgstr ""
+
+#: __locale.py:385
+msgid "JARDINIÈRE DE LÉGUMES"
+msgstr ""
+
+#: __locale.py:387
+msgid "CHANTENEIGE"
+msgstr ""
+
+#: __locale.py:389 __locale.py:403 __locale.py:417 __locale.py:445
+msgid "YAOURT NATURE SANS SUCRE"
+msgstr ""
+
+#: __locale.py:391
+msgid "COMPOTE DE POMME"
+msgstr ""
+
+#: __locale.py:393
+msgid "SAUTÉ DE DINDE LR SAUCE CATALANE"
+msgstr ""
+
+#: __locale.py:395
+msgid "PORTION DE FILETS DE HOKI SAUCE AGRUME"
+msgstr ""
+
+#: __locale.py:397
+msgid "PANÉ MOELLEUX AU GOUDA"
+msgstr ""
+
+#: __locale.py:399
+msgid "RATATOUILLE"
+msgstr ""
+
+#: __locale.py:401
+msgid "GOUDA"
+msgstr ""
+
+#: __locale.py:405
+msgid "BANANE BIO"
+msgstr ""
+
+#: __locale.py:407
+msgid "FILET DE CABILLAUD SAUCE BASILIC"
+msgstr ""
+
+#: __locale.py:409
+msgid "ESCALOPE DE PORC VF FAÇON MILANAISE"
+msgstr ""
+
+#: __locale.py:411
+msgid "PENNE SAUCE AUX 3 FROMAGES"
+msgstr ""
+
+#: __locale.py:413
+msgid "POELÉE DE LÉGUMES RACINES"
+msgstr ""
+
+#: __locale.py:415
+msgid "MIMOLETTE"
+msgstr ""
+
+#: __locale.py:419
+msgid "ORANGE"
+msgstr ""
+
+#: __locale.py:421
+msgid "CROUSTILLANTS DE POISSON"
+msgstr ""
+
+#: __locale.py:423
+msgid "GALETTE BOULGOUR, POIS CHICHE, EMMENTAL ORIENTALE"
+msgstr ""
+
+#: __locale.py:425
+msgid "AXOA DE VEAU LR"
+msgstr ""
+
+#: __locale.py:427
+msgid "CAROTTES LCL DES YVELINES PERSILLÉES"
+msgstr ""
+
+#: __locale.py:429
+msgid "POINTE DE BRIE"
+msgstr ""
+
+#: __locale.py:431
+msgid "FROMAGE BLANC AUX FRUITS"
+msgstr ""
+
+#: __locale.py:433
+msgid "CRÊPE SUCRÉE"
+msgstr ""
+
+#: __locale.py:435
+msgid "CERVELAS OBERNOIS"
+msgstr ""
+
+#: __locale.py:437
+msgid "OMELETTE (OEUFS LCL) AUX FINES HERBES"
+msgstr ""
+
+#: __locale.py:439
+msgid "FILET DE SAUMON SAUCE CITRON"
+msgstr ""
+
+#: __locale.py:441
+msgid "CHOU-FLEUR PERSILLÉ"
+msgstr ""
+
+#: __locale.py:443
+msgid "TARTARE AIL ET FINES HERBES"
+msgstr ""
+
+#: __locale.py:447
+msgid "COMPOTE POMME FRAISE"
+msgstr ""
+
+#: account/templates/account/import_key.html:29
+#: home/templates/navbar/navbar.html:54
+msgid "I have a register key"
+msgstr "J'ai un code"
+
+#: account/templates/account/import_key.html:35
+#: account/templates/account/import_key.html:37
+msgid "Register key"
+msgstr "Code"
+
+#: account/templates/account/import_key.html:43
+#: account/templates/account/login.html:59
+#: account/templates/account/signup.html:29
+#: account/templates/account/signup.html:69 home/templates/home/home.html:65
+#: home/templates/navbar/navbar.html:58
+msgid "Register"
+msgstr "Enregistrer le code"
+
+#: account/templates/account/leaderboard.html:37
+#: home/templates/navbar/navbar.html:22 home/templates/navbar/navbar.html:80
+msgid "Leaderboard"
+msgstr "Classement"
+
+#: account/templates/account/leaderboard.html:42
+msgid "Please note that only the 25 first results will get displayed."
+msgstr ""
+"Notez que seuls les 25 premiers résultats sont affichés ci-après, quel que "
+"soit le nombre effectif de participants."
+
+#: account/templates/account/leaderboard.html:50
+msgid "Rank"
+msgstr "Rang"
+
+#: account/templates/account/leaderboard.html:51
+#: account/templates/account/login.html:38
+#: account/templates/account/login.html:40
+#: account/templates/account/signup.html:38
+#: account/templates/account/signup.html:40
+msgid "Username"
+msgstr "Nom d'utilisateur"
+
+#: account/templates/account/leaderboard.html:52
+#: account/templates/account/leaderboard.html:75
+msgid "Level"
+msgstr "Niveau"
 
 #: account/templates/account/login.html:29
 #: account/templates/account/login.html:64
 #: account/templates/account/signup.html:64 home/templates/home/home.html:64
-#: home/templates/navbar/navbar.html:56
+#: home/templates/navbar/navbar.html:60
 msgid "Log in"
 msgstr "Connexion"
 
@@ -47,13 +658,6 @@ msgid "You are logged in as %(username)s, do you want to switch account?"
 msgstr ""
 "Vous êtes connecté en tant que %(username)s, souhaitez-vous changer de "
 "compte ?"
-
-#: account/templates/account/login.html:38
-#: account/templates/account/login.html:40
-#: account/templates/account/signup.html:38
-#: account/templates/account/signup.html:40
-msgid "Username"
-msgstr "Nom d'utilisateur"
 
 #: account/templates/account/login.html:44
 #: account/templates/account/login.html:46
@@ -70,13 +674,6 @@ msgstr "Mot de passe oublié ?"
 #: account/templates/account/login.html:58
 msgid "No account yet?"
 msgstr "Pas encore de compte ?"
-
-#: account/templates/account/login.html:59
-#: account/templates/account/signup.html:29
-#: account/templates/account/signup.html:69 home/templates/home/home.html:65
-#: home/templates/navbar/navbar.html:54
-msgid "Register"
-msgstr "Créer un compte"
 
 #: account/templates/account/reset_pwd.html:29
 msgid "Reset password"
@@ -126,31 +723,53 @@ msgstr "Mot de passe (vérification)"
 msgid "You already have an account?"
 msgstr "Vous avez déjà un compte ?"
 
-#: account/views.py:33
+#: account/views.py:34
 msgid "Something went wrong with your credentials"
 msgstr "Votre nom d'utilisateur ou mot de passe est incorrect"
 
-#: account/views.py:57
+#: account/views.py:58
 msgid "The two passwords are different"
 msgstr "Les deux mots de passes sont différents"
 
-#: account/views.py:61
+#: account/views.py:62
 msgid "The password is too short"
 msgstr "Le mot de passe est trop court"
 
-#: account/views.py:65
+#: account/views.py:66
 msgid "The e-mail already exists"
 msgstr "Cette adresse e-mail existe déjà"
 
-#: account/views.py:69
+#: account/views.py:70
 msgid "The username already exists"
 msgstr "Ce nom d'utilisateur existe déjà"
 
-#: foodregister/settings.py:126
+#: account/views.py:132
+msgid "The key does not exists"
+msgstr "Le code n'existe pas"
+
+#: campaign/templates/campaign/list.html:60
+msgid ""
+"Answering to campaigns and question series helps us to collect statistics, "
+"and enhance our knowledge about what we need to buy on a specific day "
+"depending on what is going to be at the school restaurant. It is an easy "
+"step towards ecology and helps you get involved. It also allows you to earn "
+"points to climb the leaderboard and to be able to win a reward."
+msgstr ""
+"Répondre à des sondages nous permet de collecter des statistiques et "
+"d'augmenter nos connaissances sur ce que l'on doit commander en fonction "
+"d'un menu. Il s'agit d'un moyen facile de participer à la lutte contre le "
+"gaspillage alimentaire. Cela vous permet aussi de gagner des points et de "
+"potentiellement gagner un prix ou des avantages."
+
+#: campaign/templates/campaign/series.html:101
+msgid "Next question series"
+msgstr ""
+
+#: foodregister/settings.py:127
 msgid "English"
 msgstr "Anglais"
 
-#: foodregister/settings.py:127
+#: foodregister/settings.py:128
 msgid "French"
 msgstr "Français"
 
@@ -199,7 +818,7 @@ msgid ""
 "We are a team of 3 students working hardly on this project. If you want to "
 "reach us, we are available for any idea or projet related to ecology."
 msgstr ""
-"Nous sommes une équipe de 3 lycéens qui travaillent de manière dévoués sur "
+"Nous sommes une équipe de 3 lycéens qui travaillent de manière dévouée sur "
 "ce projet. Si vous voulez nous contacter, nous sommes disponible pour "
 "n'importe quelle idée ou projet en rapport avec l'écologie."
 
@@ -211,57 +830,66 @@ msgstr "Combattez le gaspillage alimentaire !"
 msgid "Access to campaigns"
 msgstr "Accéder aux sondages"
 
-#: home/templates/home/home.html:80
+#: home/templates/home/home.html:82
 msgid "C'Midy gives us data about what we are going to eat."
 msgstr "C'Midy nous donne les menus des prochaines semaines."
 
-#: home/templates/home/home.html:87
+#: home/templates/home/home.html:91
 msgid ""
 "We give series of questions to the students using our website 3 weeks before."
 msgstr ""
 "Nous préparons des sondages pour les élèves et le personnel 3 semaines à "
 "l'avance."
 
-#: home/templates/home/home.html:94
+#: home/templates/home/home.html:100
 msgid "We compile answers and C'Midy adapts what they buy."
 msgstr "Nous compilons les résultats et C'Midy adapte ses commandes."
 
-#: home/templates/home/home.html:100
+#: home/templates/home/home.html:108
 msgid "We avoid losing food!"
 msgstr "On évite le gaspillage !"
 
-#: home/templates/home/home.html:106
+#: home/templates/home/home.html:114
 msgid "Who are we?"
 msgstr "Qui sommes nous ?"
 
-#: home/templates/home/home.html:107
+#: home/templates/home/home.html:115
 msgid "Food Register is a school project that aims to reduce spoiled food."
 msgstr "FoodRegister est un projet pour éviter le gaspillage alimentaire."
 
-#: home/templates/navbar/navbar.html:16 home/templates/navbar/navbar.html:74
+#: home/templates/navbar/navbar.html:16 home/templates/navbar/navbar.html:78
 msgid "Home"
 msgstr "Accueil"
 
-#: home/templates/navbar/navbar.html:19 home/templates/navbar/navbar.html:75
+#: home/templates/navbar/navbar.html:19 home/templates/navbar/navbar.html:79
 msgid "Campaigns"
 msgstr "Sondages"
 
-#: home/templates/navbar/navbar.html:23 home/templates/navbar/navbar.html:77
+#: home/templates/navbar/navbar.html:26 home/templates/navbar/navbar.html:82
 msgid "Administrator"
 msgstr "Interface Admin"
 
-#: home/templates/navbar/navbar.html:50
+#: home/templates/navbar/navbar.html:53
 msgid "Settings"
 msgstr "Paramètres"
 
-#: home/templates/navbar/navbar.html:52
+#: home/templates/navbar/navbar.html:56
 msgid "Sign out"
 msgstr "Déconnexion"
 
-#: home/templates/navbar/navbar.html:60
+#: home/templates/navbar/navbar.html:64
 msgid "Dark Mode"
 msgstr "Thème sombre"
 
-#: home/templates/navbar/navbar.html:63
+#: home/templates/navbar/navbar.html:67
 msgid "Light Mode"
 msgstr "Thème clair"
+
+#~ msgid "Campaign name 2"
+#~ msgstr "Sondages 2"
+
+#~ msgid "Campaign name 3"
+#~ msgstr "Sondages 3"
+
+#~ msgid "Campaign name 4"
+#~ msgstr "Sondages 4"
