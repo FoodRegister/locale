@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-14 07:18+0000\n"
+"POT-Creation-Date: 2022-02-16 18:06+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,585 +18,240 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: __locale.py:6 __locale.py:8 __locale.py:10
+#: __locale.py:6
 msgid "Campaign name"
 msgstr ""
 
-#: __locale.py:15
+#: __locale.py:11
 msgid "Lundi 14 février"
 msgstr ""
 
-#: __locale.py:17
+#: __locale.py:13
 msgid "Mardi 15 février"
 msgstr ""
 
-#: __locale.py:19
+#: __locale.py:15
 msgid "Mercredi 16 février"
 msgstr ""
 
-#: __locale.py:21
+#: __locale.py:17
 msgid "Jeudi 17 février"
 msgstr ""
 
-#: __locale.py:23
+#: __locale.py:19
 msgid "Vendredi 18 février"
 msgstr ""
 
-#: __locale.py:25
-msgid "Lundi 7 février"
-msgstr ""
-
-#: __locale.py:27
-msgid "Mardi 8 février"
-msgstr ""
-
-#: __locale.py:29
-msgid "Mercredi 9 février"
-msgstr ""
-
-#: __locale.py:31
-msgid "Jeudi 10 février"
-msgstr ""
-
-#: __locale.py:33
-msgid "Vendredi 11 février"
-msgstr ""
-
-#: __locale.py:35
-msgid "lundi 31 janvier"
-msgstr ""
-
-#: __locale.py:37
-msgid "mardi 1 février"
-msgstr ""
-
-#: __locale.py:39
-msgid "mercredi 2 février"
-msgstr ""
-
-#: __locale.py:41
-msgid "jeudi 3 février"
-msgstr ""
-
-#: __locale.py:43
-msgid "vendredi 4 février"
-msgstr ""
-
-#: __locale.py:48 __locale.py:56 __locale.py:64 __locale.py:130 __locale.py:138
-#: __locale.py:146 __locale.py:154 __locale.py:162
-msgid "PLAT COMPLET"
-msgstr ""
-
-#: __locale.py:50 __locale.py:60 __locale.py:66 __locale.py:74 __locale.py:82
-#: __locale.py:132 __locale.py:140 __locale.py:148 __locale.py:156
-#: __locale.py:164
-msgid "FROMAGE / LAITAGE"
-msgstr ""
-
-#: __locale.py:52 __locale.py:62 __locale.py:68 __locale.py:76 __locale.py:84
-#: __locale.py:134 __locale.py:142 __locale.py:150 __locale.py:158
-#: __locale.py:166
-msgid "DESSERT"
-msgstr ""
-
-#: __locale.py:54 __locale.py:70 __locale.py:78 __locale.py:128 __locale.py:136
-#: __locale.py:144 __locale.py:152 __locale.py:160
-msgid "PLAT PROTIDIQUE"
-msgstr ""
-
-#: __locale.py:58 __locale.py:72 __locale.py:80
-msgid "GARNITURE"
-msgstr ""
-
-#: __locale.py:86 __locale.py:96 __locale.py:106 __locale.py:112
-#: __locale.py:120
-msgid "Dessert"
-msgstr ""
-
-#: __locale.py:88 __locale.py:98 __locale.py:114 __locale.py:122
-msgid "Plat protidique"
-msgstr ""
-
-#: __locale.py:90 __locale.py:100 __locale.py:108
+#: __locale.py:24 __locale.py:32 __locale.py:40
 msgid "Plat complet"
 msgstr ""
 
-#: __locale.py:92 __locale.py:102 __locale.py:116 __locale.py:124
-msgid "Garniture"
-msgstr ""
-
-#: __locale.py:94 __locale.py:104 __locale.py:110 __locale.py:118
-#: __locale.py:126
+#: __locale.py:26 __locale.py:36 __locale.py:42 __locale.py:50 __locale.py:58
 msgid "Fromage / laitage"
 msgstr ""
 
-#: __locale.py:171
+#: __locale.py:28 __locale.py:38 __locale.py:44 __locale.py:52 __locale.py:60
+msgid "Dessert"
+msgstr ""
+
+#: __locale.py:30 __locale.py:46 __locale.py:54
+msgid "Plat protidique"
+msgstr ""
+
+#: __locale.py:34 __locale.py:48 __locale.py:56
+msgid "Garniture"
+msgstr ""
+
+#: __locale.py:65
 msgid "Cotriade bretonne"
 msgstr ""
 
-#: __locale.py:173
+#: __locale.py:67
 msgid "Raclette"
 msgstr ""
 
-#: __locale.py:175
+#: __locale.py:69
 msgid "Ragout de patate douce au lait coco"
 msgstr ""
 
-#: __locale.py:177
+#: __locale.py:71
 msgid "Tartare nature"
 msgstr ""
 
-#: __locale.py:179 __locale.py:263 __locale.py:353
+#: __locale.py:73 __locale.py:157
 msgid "Yaourt aromatisé"
 msgstr ""
 
-#: __locale.py:181 __locale.py:221 __locale.py:265 __locale.py:293
-#: __locale.py:315 __locale.py:333 __locale.py:355
+#: __locale.py:75 __locale.py:115 __locale.py:159
 msgid "Yaourt nature sans sucre"
 msgstr ""
 
-#: __locale.py:183 __locale.py:357
+#: __locale.py:77
 msgid "Banane bio"
 msgstr ""
 
-#: __locale.py:185 __locale.py:273
+#: __locale.py:79
 msgid "Compote de pomme"
 msgstr ""
 
-#: __locale.py:187
+#: __locale.py:81
 msgid "Flan saveur vanille"
 msgstr ""
 
-#: __locale.py:189 __locale.py:343
+#: __locale.py:83
 msgid "Filet de cabillaud à la sauce aux trois herbes"
 msgstr ""
 
-#: __locale.py:191
+#: __locale.py:85
 msgid "Emincé de dinde lr sauce arrabiata"
 msgstr ""
 
-#: __locale.py:193
+#: __locale.py:87
 msgid "Timbale de riz à l&#39;espagnole"
 msgstr ""
 
-#: __locale.py:195
+#: __locale.py:89
 msgid "Pommes de terre wedge"
 msgstr ""
 
-#: __locale.py:197
+#: __locale.py:91
 msgid "Poelée de légumes racines"
 msgstr ""
 
-#: __locale.py:199
+#: __locale.py:93
 msgid "Emmental"
 msgstr ""
 
-#: __locale.py:201
+#: __locale.py:95
 msgid "Fromage blanc type suisse bio"
 msgstr ""
 
-#: __locale.py:203 __locale.py:291
+#: __locale.py:97
 msgid "Yaourt brassé aux fruits mixés"
 msgstr ""
 
-#: __locale.py:205 __locale.py:359
+#: __locale.py:99
 msgid "Compote pomme fraise"
 msgstr ""
 
-#: __locale.py:207
+#: __locale.py:101
 msgid "Gâteau aux pommes (farine lcl, lait lcl, pomme lcl)"
 msgstr ""
 
-#: __locale.py:209 __locale.py:277
+#: __locale.py:103
 msgid "Pomme lcl des yvelines"
 msgstr ""
 
-#: __locale.py:211
+#: __locale.py:105
 msgid "Spaghetti duo de poissons a la tomate"
 msgstr ""
 
-#: __locale.py:213
+#: __locale.py:107
 msgid "Torsades façon carbonara"
 msgstr ""
 
-#: __locale.py:215
+#: __locale.py:109
 msgid "Torsades au potiron, carottes et mozzarella"
 msgstr ""
 
-#: __locale.py:217
+#: __locale.py:111
 msgid "Camembert"
 msgstr ""
 
-#: __locale.py:219
+#: __locale.py:113
 msgid "Fromage blanc aux fruits"
 msgstr ""
 
-#: __locale.py:223 __locale.py:317
+#: __locale.py:117
 msgid "Orange"
 msgstr ""
 
-#: __locale.py:225
+#: __locale.py:119
 msgid "Panna cotta et coulis à la mangue (lait lcl)"
 msgstr ""
 
-#: __locale.py:227
+#: __locale.py:121
 msgid "Smoothie orange et banane"
 msgstr ""
 
-#: __locale.py:229
+#: __locale.py:123
 msgid "Colin d&#39;alaska pané aux céréales et quartier de citron"
 msgstr ""
 
-#: __locale.py:231
+#: __locale.py:125
 msgid "Omelette (oeufs bio lcl) aux champignons"
 msgstr ""
 
-#: __locale.py:233
+#: __locale.py:127
 msgid "Echine de porc vf demi-sel"
 msgstr ""
 
-#: __locale.py:235
+#: __locale.py:129
 msgid "Boulgour bio"
 msgstr ""
 
-#: __locale.py:237
+#: __locale.py:131
 msgid "Trio de légumes bio (carotte, brocoli et chou fleur)"
 msgstr ""
 
-#: __locale.py:239
+#: __locale.py:133
 msgid "Cantal aop"
 msgstr ""
 
-#: __locale.py:241
+#: __locale.py:135
 msgid "Fondu vache qui rit"
 msgstr ""
 
-#: __locale.py:243 __locale.py:313
+#: __locale.py:137
 msgid "Yaourt aux fruits"
 msgstr ""
 
-#: __locale.py:245
+#: __locale.py:139
 msgid "Gâteau à la vanille (farine lcl)"
 msgstr ""
 
-#: __locale.py:247 __locale.py:339
+#: __locale.py:141
 msgid "Kiwi"
 msgstr ""
 
-#: __locale.py:249
+#: __locale.py:143
 msgid "Soupe de fruits rouges"
 msgstr ""
 
-#: __locale.py:251
+#: __locale.py:145
 msgid "Estouffade de boeuf char à la provençale"
 msgstr ""
 
-#: __locale.py:253
+#: __locale.py:147
 msgid "Portion de filets de hoki sauce agrume"
 msgstr ""
 
-#: __locale.py:255
+#: __locale.py:149
 msgid "Nuggets de blé"
 msgstr ""
 
-#: __locale.py:257
+#: __locale.py:151
 msgid "Ratatouille"
 msgstr ""
 
-#: __locale.py:259
+#: __locale.py:153
 msgid "Riz créole"
 msgstr ""
 
-#: __locale.py:261
+#: __locale.py:155
 msgid "Petit moulé noix"
 msgstr ""
 
-#: __locale.py:267 __locale.py:335
+#: __locale.py:161
 msgid "Compote pomme poire"
 msgstr ""
 
-#: __locale.py:269
+#: __locale.py:163
 msgid "Mousse au chocolat au lait"
 msgstr ""
 
-#: __locale.py:271 __locale.py:297
+#: __locale.py:165
 msgid "Poire lcl des yvelines"
-msgstr ""
-
-#: __locale.py:275
-msgid "Crème dessert saveur vanille"
-msgstr ""
-
-#: __locale.py:279
-msgid "Filet de colin d&#39;alaska sauce basquaise"
-msgstr ""
-
-#: __locale.py:281
-msgid "Boullettes au mouton et au boeuf à l&#39;orientale"
-msgstr ""
-
-#: __locale.py:283
-msgid "Patata cheddar légumes sauce barbecue"
-msgstr ""
-
-#: __locale.py:285
-msgid "Blé au coulis de tomate"
-msgstr ""
-
-#: __locale.py:287
-msgid "Epinards en branches béchamel"
-msgstr ""
-
-#: __locale.py:289
-msgid "Samos"
-msgstr ""
-
-#: __locale.py:295
-msgid "Crumble à la poire et au chocolat (farine lcl)"
-msgstr ""
-
-#: __locale.py:299
-msgid "Salade cocktail de fruits frais jus de raisin"
-msgstr ""
-
-#: __locale.py:301
-msgid "Poisson pane sc tartare"
-msgstr ""
-
-#: __locale.py:303
-msgid "Cuisse de poulet rôti lr sauce barbecue"
-msgstr ""
-
-#: __locale.py:305
-msgid "Dahl de lentilles corail lcl 78 et riz"
-msgstr ""
-
-#: __locale.py:307
-msgid "Haricots verts bio"
-msgstr ""
-
-#: __locale.py:309
-msgid "Riz bio créole"
-msgstr ""
-
-#: __locale.py:311
-msgid "Edam"
-msgstr ""
-
-#: __locale.py:319
-msgid "Pudding anglais (lait lcl)"
-msgstr ""
-
-#: __locale.py:321
-msgid "Smoothie oranges et framboises"
-msgstr ""
-
-#: __locale.py:323
-msgid "Farfalles au saumon fumé et brocolis"
-msgstr ""
-
-#: __locale.py:325
-msgid "Gratin gnocchetti brocoli cheddar et mozzarella"
-msgstr ""
-
-#: __locale.py:327
-msgid "Poêlée de gnocchettis, jambon et légumes"
-msgstr ""
-
-#: __locale.py:329
-msgid "Fromage blanc sucré"
-msgstr ""
-
-#: __locale.py:331
-msgid "Munster aop"
-msgstr ""
-
-#: __locale.py:337
-msgid "Gâteau façon cookie aux pépites de chocolat (farine lcl)"
-msgstr ""
-
-#: __locale.py:341
-msgid "Sauté de boeuf char façon strogonoff"
-msgstr ""
-
-#: __locale.py:345
-msgid "Crispidor au fromage"
-msgstr ""
-
-#: __locale.py:347
-msgid "Carottes lcl des yvelines"
-msgstr ""
-
-#: __locale.py:349
-msgid "Semoule"
-msgstr ""
-
-#: __locale.py:351
-msgid "Montboissié"
-msgstr ""
-
-#: __locale.py:361
-msgid "Liégeois chocolat"
-msgstr ""
-
-#: __locale.py:363
-msgid "Filet de colin d&#39;alaska sauce armoricaine"
-msgstr ""
-
-#: __locale.py:365
-msgid "Jambon blanc"
-msgstr ""
-
-#: __locale.py:367
-msgid "Omelette (oeufs bio lcl)"
-msgstr ""
-
-#: __locale.py:369
-msgid "Pomme de terre au four lcl des yvelines"
-msgstr ""
-
-#: __locale.py:371
-msgid "Petit pois"
-msgstr ""
-
-#: __locale.py:373
-msgid "Brie bio"
-msgstr ""
-
-#: __locale.py:375
-msgid "Fromage frais 1/2 sel bio"
-msgstr ""
-
-#: __locale.py:377
-msgid "Yaourt nature bio"
-msgstr ""
-
-#: __locale.py:379
-msgid "STEAK HACHÉ DE BOEUF CHAR SAUCE CHASSEUR"
-msgstr ""
-
-#: __locale.py:381
-msgid "PORTION DE FILETS DE MERLU ET SAUCE VATAPA"
-msgstr ""
-
-#: __locale.py:383
-msgid "QUICHE PETITS POIS ET CHÈVRE"
-msgstr ""
-
-#: __locale.py:385
-msgid "JARDINIÈRE DE LÉGUMES"
-msgstr ""
-
-#: __locale.py:387
-msgid "CHANTENEIGE"
-msgstr ""
-
-#: __locale.py:389 __locale.py:403 __locale.py:417 __locale.py:445
-msgid "YAOURT NATURE SANS SUCRE"
-msgstr ""
-
-#: __locale.py:391
-msgid "COMPOTE DE POMME"
-msgstr ""
-
-#: __locale.py:393
-msgid "SAUTÉ DE DINDE LR SAUCE CATALANE"
-msgstr ""
-
-#: __locale.py:395
-msgid "PORTION DE FILETS DE HOKI SAUCE AGRUME"
-msgstr ""
-
-#: __locale.py:397
-msgid "PANÉ MOELLEUX AU GOUDA"
-msgstr ""
-
-#: __locale.py:399
-msgid "RATATOUILLE"
-msgstr ""
-
-#: __locale.py:401
-msgid "GOUDA"
-msgstr ""
-
-#: __locale.py:405
-msgid "BANANE BIO"
-msgstr ""
-
-#: __locale.py:407
-msgid "FILET DE CABILLAUD SAUCE BASILIC"
-msgstr ""
-
-#: __locale.py:409
-msgid "ESCALOPE DE PORC VF FAÇON MILANAISE"
-msgstr ""
-
-#: __locale.py:411
-msgid "PENNE SAUCE AUX 3 FROMAGES"
-msgstr ""
-
-#: __locale.py:413
-msgid "POELÉE DE LÉGUMES RACINES"
-msgstr ""
-
-#: __locale.py:415
-msgid "MIMOLETTE"
-msgstr ""
-
-#: __locale.py:419
-msgid "ORANGE"
-msgstr ""
-
-#: __locale.py:421
-msgid "CROUSTILLANTS DE POISSON"
-msgstr ""
-
-#: __locale.py:423
-msgid "GALETTE BOULGOUR, POIS CHICHE, EMMENTAL ORIENTALE"
-msgstr ""
-
-#: __locale.py:425
-msgid "AXOA DE VEAU LR"
-msgstr ""
-
-#: __locale.py:427
-msgid "CAROTTES LCL DES YVELINES PERSILLÉES"
-msgstr ""
-
-#: __locale.py:429
-msgid "POINTE DE BRIE"
-msgstr ""
-
-#: __locale.py:431
-msgid "FROMAGE BLANC AUX FRUITS"
-msgstr ""
-
-#: __locale.py:433
-msgid "CRÊPE SUCRÉE"
-msgstr ""
-
-#: __locale.py:435
-msgid "CERVELAS OBERNOIS"
-msgstr ""
-
-#: __locale.py:437
-msgid "OMELETTE (OEUFS LCL) AUX FINES HERBES"
-msgstr ""
-
-#: __locale.py:439
-msgid "FILET DE SAUMON SAUCE CITRON"
-msgstr ""
-
-#: __locale.py:441
-msgid "CHOU-FLEUR PERSILLÉ"
-msgstr ""
-
-#: __locale.py:443
-msgid "TARTARE AIL ET FINES HERBES"
-msgstr ""
-
-#: __locale.py:447
-msgid "COMPOTE POMME FRAISE"
 msgstr ""
 
 #: account/templates/account/import_key.html:29
@@ -633,6 +288,8 @@ msgstr ""
 #: account/templates/account/leaderboard.html:51
 #: account/templates/account/login.html:38
 #: account/templates/account/login.html:40
+#: account/templates/account/settings.html:41
+#: account/templates/account/settings.html:43
 #: account/templates/account/signup.html:38
 #: account/templates/account/signup.html:40
 msgid "Username"
@@ -681,15 +338,27 @@ msgid ""
 "to feedback.foodregister@gmail.com to reset your password"
 msgstr ""
 
-#: account/templates/account/settings.html:29
+#: account/templates/account/settings.html:30
 msgid "Account Settings"
 msgstr ""
 
-#: account/templates/account/settings.html:30
+#: account/templates/account/settings.html:31
 msgid ""
-"This area hasn't been finished, we are working on it, please send an email "
-"to feedback.foodregister@gmail.com if you want to modify something in your "
-"account or get your personal informations"
+"This information might be displayed publicly so be careful what you share. "
+msgstr ""
+
+#: account/templates/account/settings.html:53
+msgid "Public account"
+msgstr ""
+
+#: account/templates/account/settings.html:54
+msgid ""
+"People might be able to see some of your profile information (including "
+"experience, username and whether your account is public or not)."
+msgstr ""
+
+#: account/templates/account/settings.html:59
+msgid "Save"
 msgstr ""
 
 #: account/templates/account/signup.html:31
@@ -744,7 +413,8 @@ msgid ""
 "points to climb the leaderboard and to be able to win a reward."
 msgstr ""
 
-#: campaign/templates/campaign/series.html:101
+#: campaign/templates/campaign/series.html:96
+#: campaign/templates/campaign/series.html:150
 msgid "Next question series"
 msgstr ""
 
